@@ -21,3 +21,7 @@ As stated above...
 Deployment notes here
 
 ## How To Contribute
+
+### Copyright
+
+2014 Git.Training
