@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Sam Clunie	samclunie86@gmail.com
 
 # THANKS
 
