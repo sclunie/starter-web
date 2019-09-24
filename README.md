@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work
 
 test stuff
 
-Adding a line for rebasing example. 
+Adding a line for rebasing example, then more changes from my feature branch too. 
 
 ## Introduction
 
