@@ -4,6 +4,8 @@ This repository is for showing how Git and GitHub work
 
 test stuff
 
+Adding line for emergency fix after stash
+
 Adding a line for rebasing example, then more changes from my feature branch too. 
 
 ## Introduction
